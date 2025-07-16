@@ -1,10 +1,10 @@
-package test;
+package testing;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class MedicoTest {
+public class PersonaTest {
 
 	@Test
 	public void test() {
